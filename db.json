@@ -1,5 +1,53 @@
 {
-  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "breed": "Labrador",
+      "age": "4",
+      "gender": "male",
+      "place": "Jaipur",
+      "id": 3
+    },
+    {
+      "breed": "xyz",
+      "age": "2",
+      "gender": "female",
+      "place": "Raj",
+      "id": 4
+    },
+    {
+      "breed": "ddd",
+      "age": "3",
+      "gender": "male",
+      "place": "fsdfs",
+      "id": 5
+    },
+    {
+      "breed": "xyz",
+      "age": "6",
+      "gender": "female",
+      "place": "ttt",
+      "id": 6
+    },
+    {
+      "breed": "3224",
+      "age": "33",
+      "gender": "female",
+      "place": "fsfsf",
+      "id": 7
+    }
+  ]
 }
